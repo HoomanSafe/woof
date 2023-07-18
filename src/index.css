@@ -1,0 +1,12 @@
+@import url("https://fonts.cdnfonts.com/css/squishy-blue");
+@import url("https://fonts.cdnfonts.com/css/rowdies");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+}

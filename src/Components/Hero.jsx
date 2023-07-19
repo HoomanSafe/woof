@@ -2,6 +2,7 @@ import React from "react";
 import Logo1 from "../assets/logo1.png";
 import Pattern1 from "../assets/pattern1.png";
 import Pattern2 from "../assets/pattern2.png";
+import { BiCopy } from "react-icons/bi";
 
 const Hero = () => {
   return (
@@ -20,18 +21,24 @@ const Hero = () => {
             cooler than an iceberg. Get ready to drop into Droppy and experience
             crypto like never before. Let's rock the blockchain!
           </p>
-          <a
-            href=""
+          <button
             className="w-[267px] h-[74px] pl-px pb-1 bg-lime-400 justify-center items-center inline-flex"
+            onClick={() => {
+              navigator.clipboard
+                .writeText("0x151bFa5a0F0e11FFCc86d3BACC5faB5081Ff0AdD")
+                .then(() => {
+                  alert("Contract Copied");
+                });
+            }}
           >
             <div className="grow shrink basis-0 self-stretch p-[5px] bg-white justify-center items-center inline-flex">
               <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-red-600 shadow justify-center items-center gap-2.5 inline-flex">
-                <div className="text-white text-xl font-normal leading-7">
-                  BUY DROPPY
+                <div className="text-white flex items-center gap-3 text-xl font-normal leading-7">
+                  COPY CA <BiCopy />
                 </div>
               </div>
             </div>
-          </a>
+          </button>
         </article>
         <img src={Logo1} alt="" className=" z-10" />
       </div>

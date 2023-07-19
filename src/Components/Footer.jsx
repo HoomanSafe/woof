@@ -87,7 +87,10 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" className="">
+          <a
+            href="https://etherscan.io/address/0x151bFa5a0F0e11FFCc86d3BACC5faB5081Ff0AdD"
+            className=""
+          >
             <svg
               width="49"
               height="49"
@@ -117,7 +120,10 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" className="">
+          <a
+            href="https://www.dextools.io/app/ether/pair-explorer/0xe25f4cAdf9C7658dEA852Ad907b85eea7A09F9F9"
+            className=""
+          >
             <svg
               width="42"
               height="49"

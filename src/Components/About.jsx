@@ -11,12 +11,13 @@ const About = () => {
             About Droppy
           </h1>
           <p className=" text-white text-base font-normal leading-loose">
-            Pepe and Toad join forces on an epic space odyssey to colonize
-            Mars.An unforgettable Mars mission with the most memeable memecoin
-            in existence. Pepe and Toad was birthed to highlight the
-            collaboration between Elon Musk and Pepe. Two people on the same
-            mission to Mars. Pepe and Toad is here to bring back the hype which
-            memecoins always deserved. Zero taxes
+            Prepare yourself for a crypto uprising like never seen before!
+            Droppy has arrived to disrupt the scene with its 1% tax and a grand
+            total of 69,000,000 tokens. But what makes Droppy truly exceptional?
+            We bring the party! Come along for uproarious escapades, exclusive
+            gatherings, and a community that's cooler than an arctic breeze.
+            Gear up to dive into Droppy and encounter a whole new world of
+            crypto excitement. Let's make the blockchain groove!
           </p>
           <a
             href=""

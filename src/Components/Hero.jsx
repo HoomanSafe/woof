@@ -13,9 +13,12 @@ const Hero = () => {
             Welcome To Droppy
           </h1>
           <p className=" text-white text-base font-normal leading-loose">
-            American dollar is loosing its value. Crypto Era is becoming
-            mainstream and there’s very chance that world adopts Ethereum as the
-            global leading{" "}
+            Get ready for a crypto revolution like no other. Droppy is here to
+            shake things up with its 1% tax and a total supply of 69,000,000
+            tokens. But what sets Droppy apart? We bring the fun! Join us for
+            hilarious adventures, exclusive events, and a community that's
+            cooler than an iceberg. Get ready to drop into Droppy and experience
+            crypto like never before. Let's rock the blockchain!
           </p>
           <a
             href=""

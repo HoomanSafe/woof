@@ -25,7 +25,7 @@ const Header = () => {
         </div>
 
         <div className="flex items-center gap-4">
-          <a href="" className="">
+          <a href="https://t.me/DroopyVipErc" className="">
             <svg
               width="40"
               height="40"
@@ -52,7 +52,7 @@ const Header = () => {
               </defs>
             </svg>
           </a>
-          <a href="" className="">
+          <a href="https://twitter.com/DroopyVipErc" className="">
             <svg
               width="40"
               height="40"

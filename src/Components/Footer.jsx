@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         <img src={footerLogo} alt="" />
         <div className="flex items-center gap-6">
-          <a href="" target="_blank" className="">
+          <a href="https://t.me/DroopyVipErc" target="_blank" className="">
             <svg
               width="49"
               height="49"
@@ -53,7 +53,11 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" target="_blank" className="">
+          <a
+            href="https://twitter.com/DroopyVipErc"
+            target="_blank"
+            className=""
+          >
             <svg
               width="49"
               height="49"

@@ -63,7 +63,7 @@ const Mics = () => {
                 Total Supply
               </div>
               <div className="text-center text-white text-4xl font-squishyBlue">
-                420,690,000,000,000
+                69,000,000
               </div>
             </div>
           </div>
@@ -121,10 +121,10 @@ const Mics = () => {
             </svg>
             <div className="flex-col font-squishyBlue justify-start items-center gap-[11px] inline-flex">
               <div className="text-center text-white text-[32px] font-normal">
-                Total Supply
+                Buy/Sell Tax
               </div>
-              <div className="text-center text-white text-2xl font-normal">
-                420,690,000,000,000
+              <div className="text-center text-white text-3xl font-normal">
+                1%
               </div>
             </div>
           </div>

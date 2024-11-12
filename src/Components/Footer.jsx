@@ -88,7 +88,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href=""
+            href="https://bscscan.com/address/0x59bd0D0c0f33360B492f20a85e7C4AA80Ce4d00a"
             className=""
           >
             <svg
@@ -121,7 +121,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://www.dextools.io/"
+            href="https://www.dextools.io/app/en/bnb/pair-explorer/0xbb5b07f34ac570a68f332dd21c1f991470866a71?t=1731391229019"
             className=""
           >
             <svg

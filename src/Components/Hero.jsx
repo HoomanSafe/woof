@@ -21,7 +21,7 @@ const Hero = () => {
             className="w-[267px] h-[74px] pl-px pb-1 bg-lime-400 justify-center items-center inline-flex"
             onClick={() => {
               navigator.clipboard
-                .writeText("0x00000000000000000000000")
+                .writeText("0x59bd0D0c0f33360B492f20a85e7C4AA80Ce4d00a")
                 .then(() => {
                   alert("Contract Copied");
                 });

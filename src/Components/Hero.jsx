@@ -1,6 +1,6 @@
 import React from "react";
 import Logo1 from "../assets/logo4.png";
-import Pattern1 from "../assets/banner.jpeg";
+import Pattern1 from "../assets/banner1.jpeg";
 import Pattern2 from "../assets/pattern2.png";
 import { BiCopy } from "react-icons/bi";
 

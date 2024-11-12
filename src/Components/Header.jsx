@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container flex justify-between items-center">
         <a href="" className="">
           <div className="text-white text-4xl font-squishyBlue tracking-wide">
-            Droppy
+            WoofHopsi
           </div>
         </a>
         <div className="hidden justify-start items-start gap-16 lg:inline-flex">
@@ -25,7 +25,7 @@ const Header = () => {
         </div>
 
         <div className="flex items-center gap-4">
-          <a href="https://t.me/DroopyVipErc" className="">
+          <a href="https://t.me/WoofHopsi" className="">
             <svg
               width="40"
               height="40"
@@ -52,7 +52,7 @@ const Header = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://twitter.com/DroopyVipErc" className="">
+          <a href="https://x.com/woofhopsi" className="">
             <svg
               width="40"
               height="40"

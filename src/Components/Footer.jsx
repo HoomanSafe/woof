@@ -1,16 +1,16 @@
 import React from "react";
-import footerLogo from "../assets/footerLogo.png";
+import footerLogo from "../assets/footer1.jpeg";
 
 const Footer = () => {
   return (
     <footer className="py-9 bg-black w-full">
       <div className="container gap-6 flex justify-between items-center flex-col md:flex-row">
         <div className="text-white font-serif text-center text-2xl font-normal leading-[41.40px]">
-          Copyright © {new Date().getFullYear()} Droppy. All Rights Reserved.
+          Copyright © {new Date().getFullYear()} WoofHopsi. All Rights Reserved.
         </div>
         <img src={footerLogo} alt="" />
         <div className="flex items-center gap-6">
-          <a href="https://t.me/DroopyVipErc" target="_blank" className="">
+          <a href="https://t.me/WoofHopsi" target="_blank" className="">
             <svg
               width="49"
               height="49"
@@ -54,7 +54,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://twitter.com/DroopyVipErc"
+            href="https://x.com/woofhopsi"
             target="_blank"
             className=""
           >
@@ -88,7 +88,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://etherscan.io/address/0x151bFa5a0F0e11FFCc86d3BACC5faB5081Ff0AdD"
+            href=""
             className=""
           >
             <svg
@@ -121,7 +121,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://www.dextools.io/app/ether/pair-explorer/0xe25f4cAdf9C7658dEA852Ad907b85eea7A09F9F9"
+            href="https://www.dextools.io/"
             className=""
           >
             <svg

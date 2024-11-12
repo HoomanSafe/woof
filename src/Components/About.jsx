@@ -38,6 +38,18 @@ const About = () => {
               </div>
             </div>
           </a>
+           <a
+            href=""
+            className="w-[267px] h-[74px] pl-px pb-1 bg-lime-400 justify-center items-center inline-flex"
+          >
+            <div className="grow shrink basis-0 self-stretch p-[5px] bg-white justify-center items-center inline-flex">
+              <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-red-600 shadow justify-center items-center gap-2.5 inline-flex">
+                <div className="text-white text-xl font-normal leading-7">
+                  Stake $WHO
+                </div>
+              </div>
+            </div>
+          </a>
         </article>
       </div>
     </section>

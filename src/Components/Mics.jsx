@@ -63,7 +63,7 @@ const Mics = () => {
                 Total Supply
               </div>
               <div className="text-center text-white text-4xl font-squishyBlue">
-                69,000,000
+               200 T
               </div>
             </div>
           </div>
@@ -124,7 +124,7 @@ const Mics = () => {
                 Buy/Sell Tax
               </div>
               <div className="text-center text-white text-3xl font-normal">
-                1%
+                5%
               </div>
             </div>
           </div>
